@@ -14,7 +14,7 @@ zoom: 0.85
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-o7ju{border-color:#000000;font-size:small;text-align:left;vertical-align:top}
 .tg .tg-nqm6{background-color:#ffe6c9;border-color:#000000;font-size:small;text-align:center;vertical-align:top}
-.tg .tg-mevj{background-color:#ffe6c9;font-size:small;text-align:left;vertical-align:middle}
+.tg .tg-mevj{background-color:#ffe6c9;font-size:small;text-align:center;vertical-align:middle}
 .tg .tg-jdzo{border-color:#000000;font-size:small;text-align:center;vertical-align:top}
 .tg .tg-e4vo{background-color:#ffe6c9;border-color:#000000;font-size:small;text-align:left;vertical-align:top}
 .tg .tg-1p0a{border-color:#000000;font-size:small;text-align:left;vertical-align:middle}
