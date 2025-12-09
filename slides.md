@@ -26,8 +26,8 @@ mdc: true
 
 # css: unocss
 title: Научная визуализация данных
-subtitle: Лекция 5. Различение визуальной информации
-date: 02/12/2025
+subtitle: Лекция 6. Продвинутая визуализация данных I
+date: 09/12/2025
 venue: ФКН ВШЭ
 author: Алексей Болдырев
 ---
@@ -56,6 +56,10 @@ author: Алексей Болдырев
 <!--
 NB: This demo uses a custom syntax (using preparser extensions), with all the @@@@.
 -->
+
+---
+src: ./slides/0_outline.md
+---
 
 ---
 src: ./slides/0_intro.md
